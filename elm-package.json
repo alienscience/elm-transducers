@@ -1,7 +1,7 @@
 {
-    "version": "3.0.0",
-    "summary": "Composable transformation of sequences using clojure-inspired transducers",
-    "repository": "https://github.com/avh4/elm-transducers.git",
+    "version": "3.0.1",
+    "summary": "Composable transformation of sequences using clojure-inspired transducers (vendored)",
+    "repository": "https://github.com/alienscience/elm-transducers.git",
     "license": "MIT",
     "source-directories": [
         "src"
